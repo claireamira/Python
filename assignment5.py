@@ -23,5 +23,4 @@ list2 = [3, 5, 7, 13]
 list3 = [1, 5, 3]
 
 print(all_primes(list1))  
-print(all_primes(list2))  
-print(all_primes(list3)) 
+ 
