@@ -7,8 +7,6 @@ def get_frequency(elements):
             frequency[element] = 1
     return frequency
 
-# Sample Data
 list1 = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4]
 
-# Get the frequency of elements
-print(get_frequency(list1))  # -> {1: 1, 2: 2, 3: 3, 4: 4}
+print(get_frequency(list1)) 
